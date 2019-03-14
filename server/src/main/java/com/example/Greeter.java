@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * This class is for test porpouse
+   * This class is for test porpouse!.
    * @param someone name for someone human ben
    * @return String with the human ben
    */
